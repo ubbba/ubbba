@@ -6,6 +6,11 @@
 🌍 모든걸 배우고 배운걸 모두 업그레이드 시키겠습니다!<br>
 
 <br><br>
+  <hr>
+🌍 SNS
+ <hr>
  <a href="#" target="_blank"><img src="https://img.shields.io/badge/GitHub-0B2C4A?style=flat-square&logo=actigraph&logoColor=white"/></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Blog-68BC71?style=flat-square&logo=aboutdotme&logoColor=white"/></a>
  </div>
+  <hr>
+  
