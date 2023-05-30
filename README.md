@@ -10,12 +10,12 @@
   <hr>
 🌍 SNS
 <br><br>
- <a href="#" target="_blank"><img src="https://img.shields.io/badge/GitHub-0B2C4A?style=flat-square&logo=actigraph&logoColor=white"/></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Blog-68BC71?style=flat-square&logo=aboutdotme&logoColor=white"/></a>
+ <a href="https://github.com/ubbba" target="_blank"><img src="https://img.shields.io/badge/GitHub-0B2C4A?style=flat-square&logo=github&logoColor=white"/></a>
+  <a href="https://blog.naver.com/shxm2015" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/insect8366@gmail.com-31A8FF?style=flat-square&logo=gmail&logoColor=white"/></a>
-
+  
   <hr>
-
+  
   🌍 Stack
   <br><br>
   
