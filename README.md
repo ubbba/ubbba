@@ -25,5 +25,6 @@
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/TYPE SCRIPT-3178C6?style=flat-square&logo=typescript&logoColor=white"/></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/FIGMA-F24E1E?style=flat-square&logo=figma&logoColor=white"/></a>
-  
+    <hr>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ubbba&show_icons=true&theme=merko)
  </div>
