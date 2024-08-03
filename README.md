@@ -2,9 +2,6 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=This%20UBBA&fontSize=90" />
 
 
-🌍 Hi there 👋 <br>
-🌍 저는 프론트엔드 개발자와 UI/UX 디자이너로 활약 예정인 23살 개발자입니다. <br>
-🌍 모든걸 배우고 배운걸 모두 업그레이드 시키겠습니다!<br>
 
 
   <hr>
